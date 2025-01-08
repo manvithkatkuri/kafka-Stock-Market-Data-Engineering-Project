@@ -8,7 +8,7 @@ I have leveraged various technologies such as **Python**, **Amazon Web Services 
 ---
 
 ## Architecture
-
+!(workflow.png)
 
 ---
 
